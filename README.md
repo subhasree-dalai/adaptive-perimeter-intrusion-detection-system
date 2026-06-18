@@ -73,6 +73,16 @@ Build a perimeter defense system capable of detecting an intruder entering a pro
 ---
 
 ## Results
+## Circuit Setup
+![Circuit Setup](images/circuit_setup.png)
+
+## Normal State
+![Normal State](images/normal_state.png)
+
+## Intrusion Detected
+![Intrusion Detected](images/intruder_detected.png)
+
+
 ### Normal State
 - Object far from sensor
 - Alarm OFF
